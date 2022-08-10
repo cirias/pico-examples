@@ -52,3 +52,8 @@ add_subdirectory(timer)
 add_subdirectory(uart)
 add_subdirectory(usb)
 add_subdirectory(watchdog)
+
+# Add led_matrix
+#add_subdirectory(led_matrix)
+#add_subdirectory(led_matrix_2)
+add_subdirectory(led_seg)
